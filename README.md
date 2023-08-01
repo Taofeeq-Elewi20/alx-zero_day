@@ -1,1 +1,1 @@
-My first readme
+Knowledge is the gateway to success
